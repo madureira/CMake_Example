@@ -1,6 +1,6 @@
 # CMake_Example
 
-This project is just an example of how to set up a C++ build using CMake.
+This project is just an example of how to set up a C++ build using [CMake](https://cmake.org/).
 
 ## Linux
 
